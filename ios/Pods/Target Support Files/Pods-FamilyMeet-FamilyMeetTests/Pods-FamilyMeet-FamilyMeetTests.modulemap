@@ -1,0 +1,6 @@
+module Pods_FamilyMeet_FamilyMeetTests {
+  umbrella header "Pods-FamilyMeet-FamilyMeetTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
