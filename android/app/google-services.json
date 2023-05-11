@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "612799077865",
+    "project_id": "familymeet-e7929",
+    "storage_bucket": "familymeet-e7929.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612799077865:android:0464c743eeccd7bbc2bf78",
+        "android_client_info": {
+          "package_name": "com.familymeet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "612799077865-1md0e3a938jrn55f8shii0vo9mlbhu89.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.familymeet",
+            "certificate_hash": "3b8595382e6f77ae10ee8235c6b74fd1f645e192"
+          }
+        },
+        {
+          "client_id": "612799077865-nvemv1hp0i5a45q1i64m2bupgpellg7e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.familymeet",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "612799077865-oanhog1gjs7k52tg3vu8rjfkhvdgeitf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpo_7sSTjm6dQ-9GlfedwVTZsyLZ3uuhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "612799077865-mf2bgb0qclr7343r3sts466nas8djssb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "612799077865-qac0q4ldlg3d7rs15e889bus9gbr9df8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.FamilyMeet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/FamilyMeet.iml" filepath="$PROJECT_DIR$/.idea/modules/FamilyMeet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FamilyMeet.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FamilyMeet.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FamilyMeet.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FamilyMeet.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FamilyMeet.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FamilyMeet.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/FamilyMeet.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/FamilyMeet.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1823398353/FamilyMeet.react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/-1823398353/FamilyMeet.react-native-firebase_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1823398353/FamilyMeet.react-native-firebase_app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1823398353/FamilyMeet.react-native-firebase_app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1823398353/FamilyMeet.react-native-firebase_app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1823398353/FamilyMeet.react-native-firebase_app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1823398353/FamilyMeet.react-native-firebase_app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1823398353/FamilyMeet.react-native-firebase_app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1437698790/FamilyMeet.react-native-firebase_auth.iml" filepath="$PROJECT_DIR$/.idea/modules/-1437698790/FamilyMeet.react-native-firebase_auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1437698790/FamilyMeet.react-native-firebase_auth.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1437698790/FamilyMeet.react-native-firebase_auth.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1437698790/FamilyMeet.react-native-firebase_auth.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-1437698790/FamilyMeet.react-native-firebase_auth.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1437698790/FamilyMeet.react-native-firebase_auth.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-1437698790/FamilyMeet.react-native-firebase_auth.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-78587716/FamilyMeet.react-native-google-signin.iml" filepath="$PROJECT_DIR$/.idea/modules/-78587716/FamilyMeet.react-native-google-signin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-78587716/FamilyMeet.react-native-google-signin.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-78587716/FamilyMeet.react-native-google-signin.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-78587716/FamilyMeet.react-native-google-signin.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-78587716/FamilyMeet.react-native-google-signin.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-78587716/FamilyMeet.react-native-google-signin.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/-78587716/FamilyMeet.react-native-google-signin.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-762095841/react-native-gradle-plugin.iml" filepath="$PROJECT_DIR$/.idea/modules/-762095841/react-native-gradle-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-762095841/react-native-gradle-plugin.main.iml" filepath="$PROJECT_DIR$/.idea/modules/-762095841/react-native-gradle-plugin.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-762095841/react-native-gradle-plugin.test.iml" filepath="$PROJECT_DIR$/.idea/modules/-762095841/react-native-gradle-plugin.test.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>612799077865-qac0q4ldlg3d7rs15e889bus9gbr9df8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.612799077865-qac0q4ldlg3d7rs15e889bus9gbr9df8</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCWQ-qhFMISzQID7bxD18QDBNAb2JXc-uA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>612799077865</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.FamilyMeet</string>
+	<key>PROJECT_ID</key>
+	<string>familymeet-e7929</string>
+	<key>STORAGE_BUCKET</key>
+	<string>familymeet-e7929.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:612799077865:ios:2e6ac0067be80f07c2bf78</string>
+</dict>
+</plist>

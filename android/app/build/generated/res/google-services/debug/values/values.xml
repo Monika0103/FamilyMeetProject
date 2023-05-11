@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">612799077865-oanhog1gjs7k52tg3vu8rjfkhvdgeitf.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">612799077865</string>
+    <string name="google_api_key" translatable="false">AIzaSyDpo_7sSTjm6dQ-9GlfedwVTZsyLZ3uuhY</string>
+    <string name="google_app_id" translatable="false">1:612799077865:android:0464c743eeccd7bbc2bf78</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDpo_7sSTjm6dQ-9GlfedwVTZsyLZ3uuhY</string>
+    <string name="google_storage_bucket" translatable="false">familymeet-e7929.appspot.com</string>
+    <string name="project_id" translatable="false">familymeet-e7929</string>
+</resources>
